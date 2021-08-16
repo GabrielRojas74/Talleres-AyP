@@ -2,7 +2,7 @@
 entrada
 total_compra-->float-->tc
 Salida
-precio_total-->float-->pt
+precio_total-->str-->pt
 """
 tc= float(input("escriba el total de su compra"))
 vd=(tc*0.15)
