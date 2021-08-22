@@ -20,14 +20,14 @@ p2 = ((vd*100)/ig)
 p3 = ((vt*100)/ig)
 st = (sb+(sb*0.2))
 if(p1 > 33):
-  print("Salario vendedor 1: "+str(st))
+  print("Salario vendeor 1: "+str(st))
 else:
-  print("Sueldo vendedor 1: "+str(sb))
+  print("Sueldo vendeor 1: "+str(sb))
 if(p2 > 33):
-  print("Salario vendedor 2: "+str(st))
+  print("Salario vendeor 2: "+str(st))
 else:
-  print("Sueldo vendedor 2: "+str(sb))
+  print("Sueldo vendeor 2: "+str(sb))
 if(p3 > 33):
-  print("Salario vendedor 3: "+str(st))
+  print("Salario vendeor 3: "+str(st))
 else:
-  print("Sueldo vendedor 3: "+str(sb))
+  print("Sueldo vendeor 3: "+str(sb))

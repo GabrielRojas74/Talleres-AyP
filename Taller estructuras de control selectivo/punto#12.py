@@ -3,30 +3,29 @@ entradas
 valor-->int-->va
 
 """
-a = int(input("Ingrese cantidad de dinero $"))
-b = a
-bcien = (b-b % 100000)/100000
-b = b % 100000
-bcincuen = (b-b % 50000)/50000
-b = b % 50000
-bvein = (b-b % 20000)/20000
-b = b % 20000
-bdiez = (b-b % 10000)/10000
-b = b % 10000
-bcinco = (b-b % 5000)/5000
-b = b % 5000
-bd = (b-b % 2000)/2000
-b = b % 2000
-bm = (b-b % 1000)/1000
-b = b % 1000
-mq = (b-b % 500)/500
-b = b % 500
-md = (b-b % 200)/200
-b = b % 200
-mc = (b-b % 100)/100
-b = b % 100
-mcq = (b-b % 50)/50
-b = b % 50
+cd = int(input("Ingrese cantidad de dinero $"))
+bcien = (cd-cd % 100000)/100000
+cd=cd % 100000
+bcincuen = (cd-cd % 50000)/50000
+cd=cd % 50000
+bvein = (cd-cd % 20000)/20000
+cd=cd % 20000
+bdiez = (cd-cd % 10000)/10000
+cd=cd % 10000
+bcinco = (cd-cd % 5000)/5000
+cd=cd % 5000
+bd = (cd-cd % 2000)/2000
+cd=cd % 2000
+bm = (cd-cd % 1000)/1000
+cd=cd % 1000
+mq = (cd-cd % 500)/500
+cd=cd % 500
+md = (cd-cd % 200)/200
+cd=cd % 200
+mc = (cd-cd % 100)/100
+cd=cd % 100
+mcq = (cd-cd % 50)/50
+cd=cd % 50
 if bcien>0:
     print("La Cantidad de billetes de 100000 es de: "+str(bcien))
 if bcincuen > 0:
