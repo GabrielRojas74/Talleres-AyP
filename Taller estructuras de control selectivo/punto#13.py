@@ -1,5 +1,5 @@
 """
-Entradas
+entradas
 dia-->int-->d
 mes-->int-->m
 Salidas

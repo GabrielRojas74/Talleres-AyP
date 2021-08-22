@@ -1,5 +1,5 @@
 """
-Entradas:
+entradas:
 km_recorridos-->float-->kr
 Salidas:
 Tarifa-->float-->valor

@@ -1,5 +1,5 @@
 """
-Entradas
+entradas
 temperatura-->float-->t
 Salidas
 deporte-->str-->d

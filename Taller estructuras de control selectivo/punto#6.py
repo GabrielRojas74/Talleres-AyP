@@ -1,5 +1,5 @@
 """
-Entradas:
+entradas:
 ValorA-->int-->A
 ValorB-->int-->B
 ValorC-->int-->C

@@ -1,6 +1,6 @@
 
 """
-Entradas:
+entradas:
 valor_p-->int-->P
 valor_q-->int-->Q
 Salidas:

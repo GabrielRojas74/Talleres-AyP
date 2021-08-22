@@ -1,5 +1,5 @@
 """
-Entradas
+entradas
 salario-->int-->s
 categoria-->int-->c
 Salidas

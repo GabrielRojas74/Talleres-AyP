@@ -1,5 +1,5 @@
 """
-Entradas:
+entradas:
 importe_global--->float--->ig
 sueldo_base--->float--->sb
 venta1--->float--->vu
