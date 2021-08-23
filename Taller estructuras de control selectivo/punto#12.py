@@ -1,7 +1,6 @@
 """
 entradas
 valor-->int-->va
-
 """
 cd = int(input("Ingrese cantidad de dinero $"))
 bcien = (cd-cd % 100000)/100000

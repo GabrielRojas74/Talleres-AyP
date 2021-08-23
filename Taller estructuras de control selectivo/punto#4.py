@@ -1,5 +1,5 @@
 """
-entadas
+entradas
 #piezas->int->p
 costo_piezas->int->cop
 salidas
