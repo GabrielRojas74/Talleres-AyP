@@ -1,5 +1,5 @@
 """1. Cuente e Imprima cuantas ciudades inician con la letra M"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista = []
 ciudad = []
 for i in archivo:

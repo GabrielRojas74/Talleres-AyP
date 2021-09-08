@@ -1,5 +1,5 @@
 """2. Imprima todos los paises y capitales, cuyo inicio sea con la letra U"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 print("Paises con inicial con la Letra U: ")
 lista1=[]
 paises=[]
@@ -15,7 +15,7 @@ for i in paises:
     print(i)
 print("Capital con inicial con la Letra U: ")
 print()
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista2=[]
 ciudad=[]
 for i in archivo:

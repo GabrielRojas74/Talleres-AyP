@@ -1,5 +1,5 @@
 """6. Cuente e Imprima las ciudades que su pais inicie con la letra E"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista = []
 paises = []
 for i in archivo:

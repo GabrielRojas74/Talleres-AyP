@@ -1,5 +1,5 @@
 """3. Cuente e Imprima cuantos paises que hay en el archivo"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 c = 0
 lista = []
 for i in archivo:

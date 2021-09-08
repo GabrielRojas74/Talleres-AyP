@@ -1,5 +1,5 @@
 """5. Busque e imprima el pais de Venezuela y su capital"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista = []
 for i in archivo:
   lista.append(i)

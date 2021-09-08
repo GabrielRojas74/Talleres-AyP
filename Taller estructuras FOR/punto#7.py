@@ -1,5 +1,5 @@
 """7. Busque e imprima la Capiltal de Colombia"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista = []
 for i in archivo:
   lista.append(i)

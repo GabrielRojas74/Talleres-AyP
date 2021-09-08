@@ -1,5 +1,5 @@
 """4. Busque e Imprima la ciudad de Singapur"""
-archivo = open('paises.txt', 'r')
+archivo = open("paises.txt", "r")
 lista = []
 for i in archivo:
   lista.append(i)
