@@ -1,5 +1,5 @@
 """11. Agregue un país que no esté en la lista"""
-archivo = open("paises.txt", "r")
+archivo = open("paises.txt", "w")
 P = 0
 lista = []
 for i in archivo:

@@ -1,5 +1,5 @@
 """10. El alcalde de Antananarivo contrato a algunos alumnos de la Universidad Ean para corregir el archivo de países.txt, ya que la capital de Madagascar NO es rey julien es Antananarivo, espero que el alcalde se vaya contento por su trabajo. Utilice un For para cambiar ese Dato"""
-archivo = open("paises.txt", "r")
+archivo = open("paises.txt", "w")
 lista = []
 for i in archivo:
   lista.append(i)
